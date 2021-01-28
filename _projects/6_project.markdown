@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
+title: synchron
+description: Pergamon-Palais 2012
+img: /assets/img/3.jpg
+importance: 2
 ---
 
 Every project has a beautiful feature showcase page.

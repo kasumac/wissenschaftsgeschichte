@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: Cube of Physics
+description: Lise-Meitner-Haus 2018
+img: /assets/img/13.jpg
 importance: 2
 ---
 

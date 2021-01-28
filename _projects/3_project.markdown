@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+title: Analog-speicher
+description: Auralisierung archäologischer Räume
+img: /assets/img/15.png
+redirect: https://www.interdisciplinary-laboratory.hu-berlin.de/de/content/analogspeicher-ii-auralisierung-archaologischer-raume/
 importance: 3
 ---
 

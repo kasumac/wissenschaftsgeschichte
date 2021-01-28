@@ -1,7 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Dingler
+description: Retrodigitalisierung Polytechnisches Journal
+redirect: http://www.polytechnischesjournal.de/
 img:
 importance: 3
 ---
