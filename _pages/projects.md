@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: projekte
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Forschungs- und Ausstellungsprojekte.
 nav: true
 ---
 
