@@ -47,10 +47,10 @@ und Zitate in den natur- bzw. kulturwissenschaftlichen Kontext der
 Klangforschung und -erfahrung eingebettet.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-9 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/4.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
@@ -83,10 +83,10 @@ Lichtwelten eintauchen.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/8.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/9.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="row justify-content-sm-center">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/8.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
