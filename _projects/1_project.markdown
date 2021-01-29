@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Klangsehen
+title: klangsehen
 description: Ausstellung im Jacob-und-Wilhelm-Grimm-Zentrum, 2015
 img: /assets/img/12.jpg
 importance: 1
@@ -35,7 +35,7 @@ Wissen.
 </div>
 
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    V.l.n.r.: Stehende Welle (Jessica Masche, Johannes Maibaum, Sören S. Pah), Besucher, Platten (Marcel Pasternak).
 </div>
 
 In einer raumgreifenden Installation, dem „Klang-Wissen-Apparat“, bestehend aus
@@ -83,9 +83,6 @@ Lichtwelten eintauchen.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/8.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -95,3 +92,5 @@ Lichtwelten eintauchen.
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
+
+Ausstellungsteam: Hendrik Czakainski, Christian Kassung, Carla J. Maier, Franziska J. Paul, Jürgen P. Rabe, Una Schäfer, Holger Schulze, Sebastian Schwesinger
