@@ -35,7 +35,7 @@ Wissen.
 </div>
 
 <div class="caption">
-    V.l.n.r.: Stehende Welle (Jessica Masche, Johannes Maibaum, Sören S. Pah), Besucher, Platten (Marcel Pasternak).
+    V.l.n.r.: Stehende Welle (Jessica Masche, Johannes Maibaum, Sören S. Pah), Besucher*innen, Platten (Marcel Pasternak).
 </div>
 
 In einer raumgreifenden Installation, dem „Klang-Wissen-Apparat“, bestehend aus
@@ -47,15 +47,15 @@ und Zitate in den natur- bzw. kulturwissenschaftlichen Kontext der
 Klangforschung und -erfahrung eingebettet.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-9 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/4.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    V.l.n.r.: Besucher*innen, Notation (Carlos Campos).
 </div>
 
 Das Ausstellungsmöbel steht quer im Foyer der Grimm-Bibliothek, so dass jeder
@@ -78,19 +78,19 @@ Lichtwelten eintauchen.
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    V.l.n.r.: Audio-Walk (Julia Weitzel, Luise Wolf, Rodolfo Acosta, Valentin Peitz), Prisma (Jeanette Arendt, Kristin Kaufmann, Kristin Franz, Sabrina Akermann), Sonic-Water (Christian Kassung).
 </div>
 
-<div class="ow justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/9.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/8.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Sonic-Water (Christian Kassung), Besucher*innen.
 </div>
 
 Ausstellungsteam: Hendrik Czakainski, Christian Kassung, Carla J. Maier, Franziska J. Paul, Jürgen P. Rabe, Una Schäfer, Holger Schulze, Sebastian Schwesinger
