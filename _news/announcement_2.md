@@ -1,31 +1,56 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Stellenausschreibung Videoproduktion am Exzellenzcluster »Matters of Activity«
+date: 2021-01-05
 inline: false
 ---
+#### Beschäftigte*r (m/w/d) Videoproduktion
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+mit 1/4 Teilzeitbeschäftigung - E 3 TV-L HU (Drittmittelfinanzierung befristet
+bis 31. Dezember 2025)- DR/203/20
 
-***
+Für unterstützende Tätigkeiten bei der technischen Begleitung von virtuellen
+Veranstaltungen und Green-Screen-Aufnahmen wird ein_e Mitarbeiter*in gesucht.
+Diese Stelle ist mit dem Studium vereinbar. Bewerbungen von Studierenden sind
+ausdrücklich erwünscht.
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+##### Kennziffer #####
+DR/203/20
 
-#### Hipster list
+##### Einsatzort #####
+Exzellenzcluster »Matters of Activity. Image Space Material«
+
+##### Aufgabengebiet #####
+
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+  <li>Unterstützende Tätigkeiten bei der technischen Begleitung von virtuellen
+Veranstaltungen und Green-Screen-Aufnahmen sowie für die Recherche von Optionen
+für partizipative Online-Formate</li>
+  <li>Videoaufnahmen, Videomix und -schnitt (ATEM/OBS) unter Anleitung des
+Teams für Wissenschaftskommunikation, Event-Management und IT</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+##### Anforderungen #####
 
-***
+<ul>
+  <li>DV-Grundkenntnisse, insb. MS Office und Internet</li>
+  <li>Technisches Grundverständnis im Video- und IT-Bereich</li>
+  <li>Affinität zu digitalen Medien und Prozessen</li>
+  <li>Kenntnisse einfacher Videokamera-Systeme zum Aufzeichnen von Videos</li>
+  <li>Erfahrung mit Audiotechnik wünschenswert</li>
+  <li>Sichere Beherrschung der deutschen Sprache in Wort und Schrift</li>
+  <li>Englischkenntnisse</li>
+  <li>Sorgfältige und serviceorientierte Arbeitsweise</li>
+  <li>Kommunikative Kompetenz, gute Auffassungsgabe, Organisationsgeschick, Zuverlässigkeit</li>
+</ul>
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+##### Bewerbung bis #####
+3.2.2021
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+##### Bewerbung an #####
+Humboldt-Universität zu Berlin
+Exzellenzcluster »Matters of Activity. Image Space Material«
+Frau Deborah Zehnder
+Unter den Linden 6
+10099 Berlin
+oder bevorzugt per E-Mail in EINER PDF-Datei an moa.application [at] hu-berlin.de

@@ -44,22 +44,22 @@
           {% else %}
             {% unless forloop.last %}
               {% if author_is_self %}
-                <em>{{author.last}}, {{author.first}}</em>,
+                <em>{{author.last}}, {{author.first}}</em>
               {% else %}
                 {% if coauthor_url %}
-                  <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>,
+                  <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>
                 {% else %}
-                  {{author.last}}, {{author.first}},
+                  {{author.last}}, {{author.first}}
                 {% endif %}
               {% endif %}
             {% else %}
               {% if author_is_self %}
-                and <em>{{author.last}}, {{author.first}}</em>
+                und <em>{{author.last}}, {{author.first}}</em>
               {% else %}
                 {% if coauthor_url %}
-                  and <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>
+                  und <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>
                 {% else %}
-                  and {{author.last}}, {{author.first}}
+                  und {{author.last}}, {{author.first}}
                 {% endif %}
               {% endif %}
             {% endunless %}
@@ -68,10 +68,16 @@
       </div>
 
       <div class="periodical">
-      {% if entry.type == "article" %}
+      {% if entry.type == "book" %}
+        <em>{{entry.publisher}}</em>,&nbsp;
+      {% elsif entry.type == "proceedings" %}
+        <em>{{entry.publisher}}</em>,&nbsp;
+      {% elsif entry.type == "article" %}
         <em>{{entry.journal}}</em>
+      {% elsif entry.type == "incollection" %}
+        In: <em>{{entry.booktitle}}</em>,&nbsp;
       {% elsif entry.type == "inproceedings" %}
-        <em>In {{entry.booktitle}}</em>
+        In: <em>{{entry.booktitle}}</em>
       {% endif %}
       {% if entry.year %}
         {{entry.year}}
