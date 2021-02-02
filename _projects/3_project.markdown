@@ -2,9 +2,9 @@
 layout: page
 title: Analog-speicher
 description: Auralisierung archäologischer Räume
-img: /assets/img/15.png
+img: /assets/img/analogspeicher-1.png
 redirect: https://www.interdisciplinary-laboratory.hu-berlin.de/de/content/analogspeicher-ii-auralisierung-archaologischer-raume/
-importance: 3
+importance: 5
 ---
 
 Every project has a beautiful feature showcase page.

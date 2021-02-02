@@ -1,77 +1,87 @@
 ---
 layout: page
 title: Minerva
-description: Märkisches Museum 2015
-img: /assets/img/14.jpg
+description: Medienstationen im Märkischen Museum, 2015
+img: /assets/img/minerva-1.jpg
 importance: 3
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/minerva-7.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<div class="caption">
+    Medienstation im Märkischen Museum.
+</div>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In einer Kooperation zwischen dem Märkischen Museum, der Hochschule für Technik
+und Wirtschaft und der HU Berlin werden drei multimediale, temporäre Stationen
+realisiert, die bestehende Exponate und Räume der Dauerausstellung um kultur-
+und technikgeschichtliche Informationen, die Teil aktueller Studienarbeit an
+der HTW und der HU sind, erweitern.
+
+Kernelement sind handliche »Würfel«, die eine gestisch-haptisch gesteuerte
+Wissensvermittlung zwischen Besucher und musealem Objekt ermöglichen.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/minerva-2.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/minerva-9.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/minerva-8.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Medienstation mit Augmented Reality-Technologie auf Marker-Basis.
 </div>
+
+Eine Medienstation erklärt und veranschaulicht anhand eines Gemäldes von Lesser
+Ury (Bahnhof Nollendorfplatz bei Nacht, 1925) die Modernisierung Berlins Anfang
+des 20 Jahrhunderts. Die aus dem Möbel nehmbaren Würfel stehen für verschiedene
+Themenaspekte, steuern diese auf dem Screen an und bieten spielerische
+Möglichkeiten des Informationsabrufs.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/minerva-3.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/minerva-4.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/minerva-10.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    V.l.n.r.: Stehle zur Elektrifizierung Berlins, Steuerelektronik des Würfels, Layout für den Würfel-Token.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+Eine Debatte zwischen vier historischen Persönlichkeiten über die
+Elektrifizierung Berlins Anfang des 20. Jahrhunderts wird in den Hoffmann-Saal
+übertragen. In jeder Ecke des Raums steht eine Audiosäule, die der Besucher
+mithilfe der Würfel zum sprechen bringen kann.
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/minerva-5.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/minerva-6.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/minerva-11.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Medienstationen mit Würfel-Stehle.
 </div>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```
+Team: Tom Buhrtz, Nikita Hock, Christian Kassung, Franziska Paul, Una Schäfer, Jürgen Sieck.

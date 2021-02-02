@@ -3,8 +3,8 @@ layout: page
 title: Dingler
 description: Retrodigitalisierung Polytechnisches Journal
 redirect: http://www.polytechnischesjournal.de/
-img:
-importance: 3
+img: assets/img/dingler-1.jpg
+importance: 6
 ---
 
 Every project has a beautiful feature showcase page.

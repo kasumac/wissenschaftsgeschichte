@@ -1,77 +1,83 @@
 ---
 layout: page
 title: Cube of Physics
-description: Lise-Meitner-Haus 2018
-img: /assets/img/13.jpg
-importance: 2
+description: Installation im Lise-Meitner-Haus, 2018 
+img: /assets/img/cop-11.jpg
+importance: 1
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cop-7.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<div class="caption">
+   Szenographischer Entwurf von Franziska Paul für das Foyer des Lise-Meitner-Hauses, Institut für Physik.
+</div>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Die Ausstellung des Instituts für Physik in Kooperation mit dem Institut für
+Kulturwissenschaft widmet sich der Vorstellung, das gesamte Wissen der Physik
+in einem einzigen Modell, dem »Cube of Physics« darstellen zu können. Es steht
+die Frage im Raum, ob dieser vielleicht sogar den Schlüssel zur Weltformel
+beeinhaltet.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cop-8.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cop-1.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cop-3.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    V.l.n.r.: Entwurf der Installation mit Medienstation, Eröffnung zur Langen Nacht der Wissenschften 2020, Blick zur Decke.
 </div>
+
+Die drei Fundamentalkonstanten Gravitation $$G$$, die inverse
+Lichtgeschwindigkeit $$c^{-1}$$ und das Wirkungsquantum h spannen einen Würfel
+auf, an dessen Eckpunkten sich alle aktuellen Physiktheorien verorten lassen. 
+
+Für die Installation im Institut für Physik verwandelt sich der Würfel in
+seinen dualen Körper, ein Oktaeder, welches sich im Foyer entfaltet und alle
+Seiten gut sichtbar macht. Beim Erfassen der Informationen bewegt sich der
+Besucher durch den Raum und kann das Metamodell über die Treppe und die Galerie
+bis in die Höhe erkunden.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cop-9.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cop-6.jpg' | relative_url }}" alt="" title="example image"/>
+    </div> 
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cop-10.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    V.l.n.r.: Medienstation mit Würfelmodell, geöffneter Würfeltoken mit Steuerelektronik, Erklärungstafeln mit dualen Körpern.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+Der Zusammenhang von Würfel, Oktaeder, physikalischen Theorien, Welten und
+fundamentalen Konstanten kann in einer interaktiven Installation erkundet
+werden, in der die Besucher*innen den Würfel der Physik selbst in die Hand
+nehmen. Oder von zu Hause über die <a
+href="https://kasumac.github.io/cube-of-physics/" target="_blank">Website</a>
+des Projekts. 
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cop-4.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    V.l.n.r.: Matthias Staudacher, Franziska Paul, Jürgen P. Rabe, Stefan Zieme, Christian Kassung
 </div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```
