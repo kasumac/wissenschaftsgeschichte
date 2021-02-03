@@ -3,7 +3,7 @@ layout: page
 title: Minerva
 description: Medienstationen im Märkischen Museum, 2015
 img: /assets/img/minerva-1.jpg
-importance: 3
+importance: 7
 ---
 
 <div class="row">
@@ -13,7 +13,7 @@ importance: 3
 </div>
 
 <div class="caption">
-    Medienstation im Märkischen Museum.
+    Medienstation im Secessionsraum, Märkisches Museum.
 </div>
 
 In einer Kooperation zwischen dem Märkischen Museum, der Hochschule für Technik
@@ -84,4 +84,4 @@ mithilfe der Würfel zum sprechen bringen kann.
     Medienstationen mit Würfel-Stehle.
 </div>
 
-Team: Tom Buhrtz, Nikita Hock, Christian Kassung, Franziska Paul, Una Schäfer, Jürgen Sieck.
+Team: Timo Arndt, Tom Buhrtz, Nikita Hock, Christian Kassung, Franziska Paul, Una Schäfer, Jürgen Sieck.

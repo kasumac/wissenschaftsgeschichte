@@ -5,7 +5,6 @@ title: lehre
 description: Lehrplanung für das kommende Sommersemester 2021.
 nav: true
 ---
-
 #### Politiken der Farben ####
 
 Die Ringvorlesung untersucht das Politisch-Werden bestimmter Farben. Auch wenn

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Analog-speicher
-description: Auralisierung archäologischer Räume
-img: /assets/img/analogspeicher-1.png
-redirect: https://www.interdisciplinary-laboratory.hu-berlin.de/de/content/analogspeicher-ii-auralisierung-archaologischer-raume/
-importance: 5
+title: Dingler
+description: Retrodigitalisierung Polytechnisches Journal, 2008&ndash;2013
+redirect: http://www.polytechnischesjournal.de/
+img: assets/img/dingler-1.jpg
+importance: 6
 ---
 
 Every project has a beautiful feature showcase page.

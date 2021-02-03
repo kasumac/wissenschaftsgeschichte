@@ -2,7 +2,7 @@
 layout: about
 title: vita
 permalink: /
-description: <a href="www.hu-berlin.de">Humboldt-Universität zu Berlin</a>. Institut für Kulturwissenschaft.
+description: <a href="https://www.hu-berlin.de/" target="_blank">Humboldt-Universität zu Berlin</a>. <a href="https://www.culture.hu-berlin.de/" target="_blank">Institut für Kulturwissenschaft</a>.
 
 profile:
   align: right
