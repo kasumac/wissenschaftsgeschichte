@@ -10,6 +10,7 @@ importance: 3
 Exzellenzcluster »Matters of Activity«, seit 2018
 
 <details>
+
 <summary>Große und komplexe Datenmengen werden ebenso auf relevante
 Informationen gefiltert, wie Wasser durch Filter gereinigt und so zu
 Trinkwasser wird. Filter selektieren, extrahieren und verändern &ndash; wie sie
@@ -24,7 +25,12 @@ und Materialien durch Filterung verändert werden? Entstehen dabei gar Muster?
 Die Wissenschaftler&lowast;innen fokussieren sich in ihren Untersuchungen auf
 essentielle physikalische Mechanismen bis hin zu makroskopischen
 Untersuchungen. In Zeiten digitaler Kultur will das Projekt analoge Filter neu
-erforschen und somit das Analoge im digitalen Zeitalter neu etablieren.
+erforschen und somit das Analoge im digitalen Zeitalter neu etablieren.<br
+/>&nbsp;<br />
+
+<a href="https://www.matters-of-activity.de/de/research/projects/121/filtering"
+target="_blank">https://www.matters-of-activity.de</a>
+
 </details>
 
 ***
@@ -54,6 +60,12 @@ zum Nachdenken über die historischen Bedingungen unserer eigenen
 Ernährungskultur an.<br />&nbsp;<br />
 
 <a href="https://www.schoeningh.de/view/title/56249" target="_blank">https://www.schoeningh.de</a>
+
+<div class="publications">
+  <h5>Publikationen</h5>
+  {% bibliography -f papers -q !@misc[title ^= *Fleisch* || title ^= *Laderampe*] %}
+</div>
+
 </details>
 
 ***
@@ -97,6 +109,12 @@ gesetzt werden. Genauer sollte untersucht werden, auf welche Weise die
 Entwicklung digitaler Technologien vor dem Hintergrund der Diskussionen über
 Gedankenlesen innerhalb des Okkultismus und der Parapsychologie neu verstanden
 werden müsse.
+
+<div class="publications">
+  <h5>Publikationen</h5>
+  {% bibliography -f papers -q !@misc[title ^= *mind*] %}
+</div>
+
 </details>
 
 ***
@@ -140,5 +158,10 @@ weiterführende Frage motiviert, ob und inwiefern in diesen Kulturtechniken der
 analogen Simulation Dispositive vorgezeichnet sind, die in der digitalen
 Simulation beispielsweise der Hochenergiephysik wiederbegegnen. Welchen
 Bildstatus also besitzen die empirischen Evidenzen, die im Windkanal als Form
-von Selbstschreibungen generiert werden?
+von Selbstschreibungen generiert werden?<br
+/>&nbsp;<br />
+
+<a href="https://www.leuphana.de/dfg-programme/mecs/personen/alumni/prof-dr-christian-kassung.html"
+target="_blank">https://www.lephana.de/dfg-programme/mecs</a>
+
 </details>

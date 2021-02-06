@@ -12,7 +12,7 @@ Eine vollständige Publikationsliste ist als <a href="{{ site.baseurl }}/assets/
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @book[year={{y}}]* && @proceedings[year={{y}}]*  && @incollection[year={{y}}]*  && @article[year={{y}}]* %}
+  {% bibliography -f publications -q @book[year={{y}}]* && @proceedings[year={{y}}]*  && @incollection[year={{y}}]*  && @article[year={{y}}]* %}
 {% endfor %}
 
 </div>

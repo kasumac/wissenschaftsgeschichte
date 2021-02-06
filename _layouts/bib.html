@@ -3,11 +3,11 @@
 
 <div class="row">
   <div class="col-sm-2 abbr">
-  {% if entry.abbr %}
-    {% if site.data.venues[entry.abbr] %}
-    <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
+  {% if entry.mode %}
+    {% if site.data.venues[entry.mode] %}
+    <abbr class="badge"><a href="{{site.data.venues[entry.mode].url}}" target="_blank">{{entry.mode}}</a></abbr>
     {% else %}
-    <abbr class="badge">{{entry.abbr}}</abbr>
+    <abbr class="badge">{{entry.mode}}</abbr>
     {% endif %}
   {% endif %}
   </div>
@@ -92,14 +92,14 @@
     {% if entry.arxiv %}
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
     {% endif %}
-    {% if entry.html %}
-      <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
+    {% if entry.url %}
+      <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
     {% endif %}
-    {% if entry.pdf %}
-      {% if entry.pdf contains '://' %}
-      <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+    {% if entry.file %}
+      {% if entry.file contains '://' %}
+      <a href="{{ entry.file }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
       {% else %}
-      <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      <a href="{{ entry.file | split: '/' | last | prepend: '/assets/pdf/nonfree/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
       {% endif %}
     {% endif %}
     {% if entry.supp %}
@@ -137,7 +137,7 @@
     <!-- Hidden abstract block -->
     {% if entry.abstract %}
     <div class="abstract hidden">
-      <p>{{ entry.abstract }}</p>
+      <p>{{ entry.abstract | newline_to_br }}</p>
     </div>
     {% endif %}
   </div>
