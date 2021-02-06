@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Bitte melden Sie sich an, um das PDF lesen zu können."
-AuthUserFile ./.htpasswd
-require valid-user
