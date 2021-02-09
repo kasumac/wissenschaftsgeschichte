@@ -112,7 +112,7 @@ werden müsse.
 
 <div class="publications">
   <h5>Publikationen</h5>
-  {% bibliography -f papers -q !@misc[title ^= *mind*] %}
+  {% bibliography -f publications -q !@misc[title ^= *mind*] %}
 </div>
 
 </details>
