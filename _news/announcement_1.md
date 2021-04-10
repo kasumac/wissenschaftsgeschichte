@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-01-31
+date: 2021-04-10
 inline: true
 ---
 
-Die neuen Lehrveranstaltungen für das Sommersemester 2021 sind <a href="{{ site.baseurl }}/teaching">angekündigt</a> :astonished:
+Die Informationen zu den Lehrveranstaltungen im Sommersemester 2021 sind <a href="{{ site.baseurl }}/teaching">aktualisiert</a>.
