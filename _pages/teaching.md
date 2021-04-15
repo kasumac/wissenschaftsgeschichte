@@ -74,7 +74,9 @@ stattfinden. Die Zugangsdaten lauten: Meeting ID: 654 9527 5677, Passwort:
 **Vorbereitung:** Zur ersten Sitzung bitte den <a
 href="https://www.youtube.com/watch?v=T4tOvkvCvwQ"
 target="_blank">PS2-Werbefilm Bambi</a> von David Lynch anschauen und auf
-mögliche Fragestellungen hin durchdenken.
+mögliche Fragestellungen hin durchdenken. Wer möchte, kann sich auch bereits
+mit untenstehendem Link in den Moodle-Kurs zum Seminar eintragen. Das Paßwort
+für die Selbsteinschreibung lautet »Badalamenti«.
 
 <abbr class="badge"><a href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=180439&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank">Agnes-Eintrag</a></abbr>
 <abbr class="badge"><a href="https://moodle.hu-berlin.de/course/view.php?id=10523https://moodle.hu-berlin.de/course/view.php?id=1052399" target="_blank">Moodle-Kurs</a></abbr>
