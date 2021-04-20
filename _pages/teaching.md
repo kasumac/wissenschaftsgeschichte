@@ -46,6 +46,7 @@ Die Zugangsdaten lauten: Meeting-ID: 654 5432 4430, Passwort: »161100«.
 <abbr class="badge"><a href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=180446&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank">Agnes-Eintrag</a></abbr>
 <abbr class="badge"><a href="https://moodle.hu-berlin.de/course/view.php?id=103383" target="_blank">Moodle-Kurs</a></abbr>
 <abbr class="badge"><a href="https://hu-berlin.zoom.us/j/65454324430?pwd=Y0JnTDgrakFJVVlVemowT3FFVjhNUT09" target="_blank">Zoom-Link</a></abbr>
+<abbr class="badge"><a href="{{ site.baseurl }}/assets/pdf/2021_politiken-der-farben_rvl.pdf" target="_blank">Vorlesungsflyer</a></abbr>
 
 RVL Di wöchentlich 14&ndash;16 Uhr, gem. mit Sebastian Schwesinger
 
