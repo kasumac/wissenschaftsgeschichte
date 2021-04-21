@@ -40,12 +40,12 @@ politische Geschichte ohne ihre visuelle Dimension.
 abgelegt werden, sondern nur ein Teilnahmeschein durch regelmäßige Teilnahme
 erworben werden (3 LP).
 
-**Teilnahme:** Die erste Vorlesung wird am 20.4.2021 über Zoom stattfinden.
-Die Zugangsdaten lauten: Meeting-ID: 654 5432 4430, Passwort: »161100«.
+**Teilnahme:** Die erste Vorlesung findet über Zoom statt.  Die Zugangsdaten
+lauten: Meeting-ID: 674 7162 3130, Passwort: »299279«.
 
 <abbr class="badge"><a href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=180446&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank">Agnes-Eintrag</a></abbr>
 <abbr class="badge"><a href="https://moodle.hu-berlin.de/course/view.php?id=103383" target="_blank">Moodle-Kurs</a></abbr>
-<abbr class="badge"><a href="https://hu-berlin.zoom.us/j/65454324430?pwd=Y0JnTDgrakFJVVlVemowT3FFVjhNUT09" target="_blank">Zoom-Link</a></abbr>
+<abbr class="badge"><a href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09" target="_blank">Zoom-Link</a></abbr>
 <abbr class="badge"><a href="{{ site.baseurl }}/assets/pdf/2021_politiken-der-farben_rvl.pdf" target="_blank">Vorlesungsflyer</a></abbr>
 
 RVL Di wöchentlich 14&ndash;16 Uhr, gem. mit Sebastian Schwesinger
