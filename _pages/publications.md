@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publikationen
-description: Forschungsbeiträge der letzten fünf Jahre. 
-years: [2020, 2019, 2018, 2017, 2016]
+description: Ausgewählte Forschungsbeiträge der letzten fünf Jahre. 
+years: [2021, 2020, 2019, 2018, 2017]
 nav: true
 ---
 Eine vollständige Publikationsliste ist als <a href="{{ site.baseurl }}/assets/pdf/publication_list.pdf" target="_blank">PDF</a> verfügbar.
